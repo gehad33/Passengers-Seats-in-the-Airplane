@@ -1,0 +1,67 @@
+#tab{
+    color: white;
+}
+
+.w1{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(60, 199, 81);
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.m1{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(199, 60, 60);
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.a1{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(56, 65, 162);
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.w11{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(60, 199, 81);
+
+}
+.m11{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(199, 60, 60);
+
+}
+
+.a11{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(56, 65, 162);
+
+}
+
+
+#hid{
+    color: red;
+    font-weight: 200px;
+    visibility:hidden;
+    margin:4px ;
+    
+}
+
+th{
+    text-align: left;
+}
